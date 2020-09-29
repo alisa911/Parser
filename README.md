@@ -1,5 +1,3 @@
- A parser which extracts product information from the website.
- 
 #### Requirements
 - Extract all products for the given category URL (including color variants)
 - Extract all of the following properties for every product (if applicable)
